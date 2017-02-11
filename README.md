@@ -1,2 +1,4 @@
-# 04_BattleTank
-Udemy Unreal4 Tank Tutorial.
+This is my version of the Battle Tank game in Udemys Complete Unreal Creator course, by Ben Tristem.
+
+## Completed Lectures
+* S4 L97 Setting up a Github "Repo"
